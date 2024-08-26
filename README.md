@@ -87,9 +87,3 @@
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlrMjUyZHcweWVtenBxeTY0MTVlbXhjdGFjdHJmZGxqbzJ4azZseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIxWnHPd9rdViiy2ER/giphy.webp"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SuspectCrow/SuspectCrow/output/snake.svg" alt="Snake animation" />
-
-###
