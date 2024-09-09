@@ -90,10 +90,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlrMjUyZHcweWVtenBxeTY0MTVlbXhjdGFjdHJmZGxqbzJ4azZseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIxWnHPd9rdViiy2ER/giphy.webp"  />
-</div>
-
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suspectcrow) 
