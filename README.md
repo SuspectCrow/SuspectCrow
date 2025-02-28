@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Kerem from Turkiye<br><br>- 🔭 I’m working as Back-End Web &  Game Development<br>- 📚 I'm currently learning Unreal C++ Libraries<br>- 💻 I am currently working in back-end as Co-Founder under Eclion Software.</p>
+<p align="left">I'm Kerem from Türkiye<br><br>- 🔭 I’m working as Back-End Web &  Game Development<br>- 📚 I'm currently learning Unreal C++ Libraries<br>- 💻 I am currently working in back-end as Co-Founder under Eclion Software.</p>
 
 ###
 
